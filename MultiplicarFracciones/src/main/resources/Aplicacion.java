@@ -9,4 +9,5 @@ public class Aplicacion {
         double num2 = sc.nextDouble();
         
         System.out.println(Calculadora.multiplicar(num1,num2));
+        System.out.println("Hola mundo");
 }
